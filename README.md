@@ -1,5 +1,6 @@
 # stack-exchange-quetions
 # 🧠 Auto Tag Prediction for Questions using Multi-Label Classification (NLP)
+data set link-https://drive.google.com/drive/folders/1YA0pYS_kLgR-W_lFURzRs2Vd39U0hn-2?usp=sharing
 
 This project builds a machine learning model to **automatically predict relevant tags** (like in Stack Overflow or Quora) based on the content of user-submitted questions. It applies **Natural Language Processing (NLP)** techniques and **multi-label classification** to assign one or more appropriate tags to each question.
 
